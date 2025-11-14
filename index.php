@@ -39,7 +39,7 @@
     <input type="submit" value="Connexion" />
 
         <footer>
-            <p>Copyright © Mathieu Mangeot</p>
+            <p>Copyright © Gaspard Pasquier</p>
         </footer>
 </body>
 </html>
