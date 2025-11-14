@@ -1,4 +1,4 @@
-include('entete.php')
+<?php include('entete.php'); ?> 
 
     <header>
             <h1>Page de connexion</h1>
@@ -20,4 +20,4 @@ include('entete.php')
     </div>
     <input type="submit" value="Connexion" />
 
-include('pieddepage.php')        
+<?php include('pieddepage.php'); ?>      
