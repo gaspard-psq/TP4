@@ -45,7 +45,7 @@
         <label for="pass">Mot de passe:</label>
         <input type="password" id="pass" name="password"/>
     </div>
-    <input type="submit" value="Sign in" />
+    <input type="submit" value="Connexion" />
 
 
 
