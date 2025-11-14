@@ -12,7 +12,7 @@ body {
 //header 
 header {
   background: white;
-  padding: 1rem;
+  padding: 1px;
   border-bottom: 2px solid $primary;
 
   h1 {
@@ -23,7 +23,7 @@ header {
 
 // section principal 
 section {
-  padding: 2rem;
+  padding: 2px;
 
   h2 {
     color: $primary;
@@ -33,7 +33,7 @@ section {
 
 // footer 
 footer {
-  padding: 1rem;
+  padding: 1px;
   text-align: center;
   background: white;
   border-top: 2px solid $primary;
