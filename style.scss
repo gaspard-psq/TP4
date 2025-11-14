@@ -1,23 +1,22 @@
 // Couleurs basiques
-$primary: #2b6cb0;
-$light: #f2f4f7;
+$fond: #2b6cb0;
+$fond2: #f2f4f7;
 
 // Style global
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: $light;
+  background: $fond2;
 }
 
 //header 
 header {
   background: white;
   padding: 1px;
-  border-bottom: 2px solid $primary;
 
   h1 {
     margin: 0;
-    color: $primary;
+    color: $fond;
   }
 }
 
@@ -26,8 +25,7 @@ section {
   padding: 2px;
 
   h2 {
-    color: $primary;
-    margin-top: 0;
+    color: $fond;
   }
 }
 
@@ -36,5 +34,5 @@ footer {
   padding: 1px;
   text-align: center;
   background: white;
-  border-top: 2px solid $primary;
+  border-top: 2px solid $fond2;
 }
