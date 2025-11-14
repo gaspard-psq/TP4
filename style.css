@@ -5,6 +5,15 @@ body {
   background: #f2f4f7;
 }
 
+label {
+  display: block;
+}
+
+input[type=submit],
+label {
+  margin-top: 1rem;
+}
+
 header {
   background: white;
   padding: 1px;
