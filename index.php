@@ -38,12 +38,12 @@
          </section>
         
     <div>
-         <label for="username">Username:</label>
+         <label for="username">Pseudo:</label>
         <input type="text" id="username" name="username" />
     </div>
     <div>
-        <label for="pass">Password (8 characters minimum):</label>
-        <input type="password" id="pass" name="password" minlength="8" required />
+        <label for="pass">Mot de passe:</label>
+        <input type="password" id="pass" name="password"/>
     </div>
     <input type="submit" value="Sign in" />
 
