@@ -3,7 +3,7 @@
 <head>
   <link rel="stylesheet" href="style.css">
   <meta charset="utf-8" />
-  <meta name="author" content="Mathieu MANGEOT" />
+  <meta name="author" content="Gaspard Pasquier" />
   <meta name="keywords" content="document html5 mmi" />
   <meta name="description" content="Document minimal html5 en DUT MMI" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,12 +19,12 @@
 
 <body>
     <header>
-            <h1>Document minimal en MMI</h1>
+            <h1>Page de connexion</h1>
         <nav>
         </nav>
      </header>        
         <section>
-            <h2>Titre de section</h2>
+            <h2>Connexion</h2>
          </section>
 
     <div>
