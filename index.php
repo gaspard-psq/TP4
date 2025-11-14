@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr" prefix="og: https://ogp.me/ns#">
+<link rel="stylesheet" href="css/styles.css">
 <head>
   <meta charset="utf-8" />
   <meta name="author" content="Mathieu MANGEOT" />
